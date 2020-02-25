@@ -11,7 +11,6 @@ import java.util.List;
 
 /**
  * 用于生产MBG的代码
- * Created by xuchong 2019/11/5
  */
 public class Generator {
     public static void main(String[] args) throws Exception {
